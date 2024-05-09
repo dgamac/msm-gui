@@ -83,3 +83,8 @@ class DirectorsController < ApplicationController
     redirect_to("/directors", { :notice => "Director deleted successfully."} )
   end
 
+  
+
+
+  
+end
